@@ -1,4 +1,4 @@
-# Hola! 👋, I'm B L RAMA KRISHNA bl
+# Hola! 👋, I'm B L RAMA KRISHNA
 
 # ABOUT ME
 
