@@ -17,7 +17,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-RAMA%20KRISHNA-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lakshmiramakrishna.2018@vitstudent.ac.in)](mailto:lakshmiramakrishna.2018@vitstudent.ac.in)
 
 ## MY GITHUB STATS
-![Praneeth's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneethpsp&layout=compact)
+![Rama Krishna's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ram2311&layout=compact)
 <br><br>
 ![](https://komarev.com/ghpvc/?username=ram2311&color=ffd700&style=plastic)
 
