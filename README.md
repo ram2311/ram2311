@@ -1,4 +1,4 @@
-# Hola! 👋, I'm B L RAMA KRISHNA
+# Hola! 👋, I'm B L RAMA KRISHNA bl
 
 # ABOUT ME
 
@@ -17,7 +17,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-RAMA%20KRISHNA-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lakshmiramakrishna.2018@vitstudent.ac.in)](mailto:lakshmiramakrishna.2018@vitstudent.ac.in)
 
 ## MY GITHUB STATS
-![Rama Krishna's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ram2311&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ram2311&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 ![](https://komarev.com/ghpvc/?username=ram2311&color=ffd700&style=plastic)
 
