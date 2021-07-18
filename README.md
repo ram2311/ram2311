@@ -1,7 +1,7 @@
 # Hola! 👋, I'm B L RAMA KRISHNA
 <img align="center" src="helloworld.PNG" alt=“image” width=1000px/>
 
-# ABOUT ME
+# ABOUT ME 
 
 ### I enjoy coding👨‍💻 in different languages as it is part of my life. Thinking out of the box🎁 and developing new technologies📟,projects📝 on upcoming domains are major aspects of my skillset😎. Being interactive and volunteering makes me complete🤗. Techie interested in Machine Learning,Web Development🧐 and Designing 🖌.
 
